@@ -6,8 +6,8 @@
 //  Copyright © 2020 Ved Sirdeshmukh. All rights reserved.
 //
 
-#ifndef PriceDataset_h
-#define PriceDataset_h
+#ifndef PriceDataset_hpp
+#define PriceDataset_hpp
 
 std::vector<torch::Tensor> process_prices(std::vector<float> prices, int dim);
 double unnormalize(double p);
@@ -34,4 +34,4 @@ public:
 };
 
 
-#endif /* PriceDataset_h */
+#endif /* PriceDataset_hpp */
