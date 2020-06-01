@@ -14,7 +14,7 @@
 #include <iterator>
 #include <iostream>
 #include <torch/torch.h>
-#include "PriceDataset.h"
+#include "PriceDataset.hpp"
 #include "Networks.hpp"
 
 using namespace torch::indexing;
