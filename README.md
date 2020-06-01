@@ -16,7 +16,7 @@ Steps to run:
 
 # Results 
 
-This is the output recorded after 200 epochs. 
+This is the output recorded after 200 epochs, simulating 100 days. 
 <img src="images/image.png"/>
 
 # Notes
