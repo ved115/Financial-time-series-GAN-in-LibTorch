@@ -1,4 +1,4 @@
-# # Financial-time-series-GAN-in-LibTorch
+# Financial-time-series-GAN-in-LibTorch
 
 A GAN trained on a financial time-series of 'Close' prices for one stock (in this case, AAPL) using PyTorch's C++ API - LibTorch.
 
