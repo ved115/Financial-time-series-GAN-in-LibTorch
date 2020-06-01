@@ -12,7 +12,7 @@
 #include <vector>
 #include <tuple>
 #include <string>
-#include "PriceDataset.h"
+#include "PriceDataset.hpp"
 
 float max_p;
 float min_p;
